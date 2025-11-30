@@ -9,8 +9,3 @@ I'm from FR 🇫🇷, currently in the Central European Time Zone 🌎. I'm a hu
 ## 🌱 I’m currently learning
 
 [![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/LucasLambo5)
-
-## 📫 How to reach me
-
-[<img src="assets/envelope.png" height="50px">](mailto:lucas.lamboley@outlook.com)
-
