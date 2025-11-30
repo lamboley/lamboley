@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Lucas Lamboley
+## Hi there 👋, my name is Lucas Lamboley
 
 ## 🙋‍♂️ About me
 
@@ -13,3 +13,4 @@ I'm from the FR 🇫🇷, currently in the Central European Time Zone 🌎. I'm 
 ## 📫 How to reach me
 
 [<img src="assets/envelope.png" height="50px">](mailto:lucas.lamboley@outlook.com)
+
