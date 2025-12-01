@@ -4,8 +4,9 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=lamboley)
 
-I'm from FR 🇫🇷, currently in the Central European Time Zone 🌎. I'm a huge fan of Linux, Go, and open-source.
+I'm from FR 🇫🇷, currently in the Central European Time Zone 🌎.
 
 ## 🌱 I’m currently learning
 
 [![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/LucasLambo5)
+
