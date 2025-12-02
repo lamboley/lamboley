@@ -1,3 +1,7 @@
+## Hi there 👋, my name is Lucas Lamboley
+
+[![medium profile link](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucas.lamboley)
+
 ## 🙋‍♂️ About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=lamboley)
