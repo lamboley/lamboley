@@ -2,7 +2,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=lamboley)
 
-I'm from FR 🇫🇷, currently in the Central European Time Zone 🌎.
+I'm from France 🇫🇷, currently in the Grand Est region 🌎. I am a huge fan of Go, Linux and open-source 💻.
 
 ## 🌱 I’m currently learning
 
