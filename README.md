@@ -11,10 +11,7 @@
 
 I'm from France 🇫🇷, currently in the Grand Est region 🌎. I am a huge fan of Go, Debian and open-source 💻.
 
-## 🌱 I’m currently learning
-
-[![spanish flag](assets/spanish-flag.svg)](https://www.duolingo.com/profile/LucasLambo5)
-
 ## 📫 How to reach me
 
 [<img src="assets/envelope.png" height="50px">](mailto:lucas.lamboley@outlook.com)
+
