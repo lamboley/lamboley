@@ -1,7 +1,6 @@
 ## Hi there 👋, my name is Lucas Lamboley
 
 [![udemy profile link](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/lucas-lamboley/)
-[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-black?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/u/lamboley)
 
 ## 🙋‍♂️ About me
 
