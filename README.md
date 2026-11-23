@@ -1,5 +1,6 @@
 ## Hi there 👋, my name is Lucas Lamboley
 
+[![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lamboleylu)
 [![roadmap.sh](https://img.shields.io/badge/roadmap.sh-black?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/u/lamboley)
 
 ## 🙋‍♂️ About me
