@@ -1,3 +1,7 @@
+## Hi there 👋, my name is Lucas Lamboley
+
+[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-black?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/u/lamboley)
+
 ## 🙋‍♂️ About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=lamboley)
@@ -8,8 +12,3 @@ I'm from France 🇫🇷, currently in the Grand Est region 🌎. I am a huge fa
 ## 📫 How to reach me
 
 [<img src="assets/envelope.png" height="50px">](mailto:lucas.lamboley@outlook.com)
-
-
-
-
-
